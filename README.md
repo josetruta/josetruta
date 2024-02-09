@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=JOSETRUTA&color=3776AB&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudante de Ciência da Computação na UFCG;<br/>Desenvolvedor em formação :rocket:!</p>
+<p>Estudante de Ciência da Computação na UFCG e Engenheiro Civil graduado na UFCG;<br/>Desenvolvedor em formação :rocket:!</p>
 
 ## :computer: Minhas *skills*
 
